@@ -27,21 +27,7 @@ HP AI Studio is a powerful platform designed for building and deploying machine 
 ## Documentation
 
 - **[Installation and Setup](installation.md)**: Detailed instructions for installing and configuring HP AI Studio.
-- **[Basic Concepts](basic-concepts.md)**: Overview of core features and functionalities.
-- **[Advanced Usage](advanced-usage.md)**: Customization and advanced configuration options.
-- **[Examples and Use Cases](examples.md)**: Practical examples and case studies.
-- **[Troubleshooting and FAQs](troubleshooting.md)**: Solutions to common issues and frequently asked questions.
-- **[Best Practices](best-practices.md)**: Recommendations for optimal use and performance.
 
-## Screenshots
-
-- **[Installation Screen](images/installation-screen.png)**: Visual guide to the installation process.
-- **[Dashboard](images/dashboard.png)**: Overview of the HP AI Studio dashboard.
-- **[Error Messages](images/error-messages.png)**: Examples of common error messages and their resolutions.
-
-## Contributing
-
-We welcome contributions to improve this documentation. If you find any issues or have suggestions, please open an issue or submit a pull request.
 
 ## License
 
