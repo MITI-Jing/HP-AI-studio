@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> c2c3c9e00375ab63df27aadc3373c97f2f852a65
 # HP AI Studio
 
 ## Overview
