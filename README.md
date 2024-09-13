@@ -25,19 +25,20 @@ HP AI Studio is a powerful platform designed for building and deploying machine 
 3. **Containerize Tools**: Learn how to containerize your tools and environments to ensure consistency.
 4. **Manage Projects**: Use the platform to manage project metadata, sync with GitHub, and avoid rework.
 
-## Documentation
-
-- **[Installation and Setup](installation.md)**: Detailed instructions for installing and configuring HP AI Studio.
 
 
-## Screenshots
+## Creating new project to fill out project name,description and add tags.
+![image](https://github.com/user-attachments/assets/3aa28dca-19fc-4350-aa78-02b9e805f03f)
 
-This documentation includes screenshots to provide visual guidance on various features and steps:
+![image](https://github.com/user-attachments/assets/97df26cd-8a10-4df7-a4a7-d63277bd6aee)
 
-- **[Installation Screen](images/installation-screen.png)**: A visual guide to the installation process.
-- **[Dashboard](images/dashboard.png)**: An overview of the HP AI Studio dashboard and its key components.
-- **[Error Message](images/error-message.png)**: Common error messages and their resolutions.
+![image](https://github.com/user-attachments/assets/c8c24ab6-b5b6-44cd-be79-a6839121dd56)
 
+## Choose predefined workspace or custom workspace to configure the environment.
+![image](https://github.com/user-attachments/assets/168150b3-4f00-46a3-89c3-469b5ed00a28)
+
+## Run models and track the machine learning lifecycle and compare their performance.
+![image](https://github.com/user-attachments/assets/19653f53-5375-48a5-8466-71a5eee4fe75)
 
 ## License
 
