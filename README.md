@@ -27,6 +27,7 @@ HP AI Studio is a powerful platform designed for building and deploying machine 
 
 ## HP AI Studio overview video step by step guide through the features and capabilitie in the platform, and showcase how to create projects, test, and deploy AI models.
 https://community.datascience.hp.com/z-by-hp-ai-studio-early-access-program-73/ai-studio-overview-video-163?postid=243#post243
+![image](https://github.com/user-attachments/assets/7f21e783-730d-4963-b170-f4b7bcf6f314)
 
 
 ## Creating new project to fill out project name,description and add tags.
