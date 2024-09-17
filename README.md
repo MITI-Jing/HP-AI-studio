@@ -47,6 +47,15 @@ https://community.datascience.hp.com/z-by-hp-ai-studio-early-access-program-73/a
 ## MLflow 
 https://mlflow.org/docs/latest/introduction/index.html#
 
+## MLflow Tracking
+![image](https://github.com/user-attachments/assets/1a156c80-986e-4956-8bf5-9be71ab1cee0)
+
+## Run Comparison Basics
+![image](https://github.com/user-attachments/assets/3f679c5f-b1aa-4854-8f1d-8599fa53df12)
+
+## Model Registry
+![image](https://github.com/user-attachments/assets/90613789-a5bc-4c95-a8d0-c57c5aa9bc7c)
+
 
 ## License
 
