@@ -44,6 +44,7 @@ https://community.datascience.hp.com/z-by-hp-ai-studio-early-access-program-73/a
 ## Run models and track the machine learning lifecycle and compare their performance.
 ![image](https://github.com/user-attachments/assets/19653f53-5375-48a5-8466-71a5eee4fe75)
 
+
 # MLflow 
 https://mlflow.org/docs/latest/introduction/index.html#
 
@@ -56,6 +57,8 @@ https://mlflow.org/docs/latest/introduction/index.html#
 ## Model Registry
 ![image](https://github.com/user-attachments/assets/90613789-a5bc-4c95-a8d0-c57c5aa9bc7c)
 
+## 🎥 AI Studio: How-To Video Guides
+https://community.datascience.hp.com/z-by-hp-ai-studio-early-access-program-73/ai-studio-how-to-video-guides-164?tid=164&fid=73
 
 ## License
 
