@@ -51,7 +51,8 @@ https://community.datascience.hp.com/z-by-hp-ai-studio-early-access-program-73/a
 ![image](https://github.com/user-attachments/assets/e555ac00-4708-4e51-8d10-9eeb6f042b57)
 
 ## Publish model locally(cloud not available yet)
-![image](https://github.com/user-attachments/assets/f9148369-4bf4-4728-bf6c-3aa454efc7ee)
+![image](https://github.com/user-attachments/assets/eed8ce01-6ddc-459b-a9ef-2a1e222c5114)
+![image](https://github.com/user-attachments/assets/5e8de302-0f39-4e94-a307-0c19dd0f5a1e)
 
 
 # MLflow 
