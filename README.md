@@ -47,9 +47,6 @@ https://community.datascience.hp.com/z-by-hp-ai-studio-early-access-program-73/a
 ## Run models and track the machine learning lifecycle and compare their performance.
 ![image](https://github.com/user-attachments/assets/19653f53-5375-48a5-8466-71a5eee4fe75)
 
-## Model registry issue
-![image](https://github.com/user-attachments/assets/20bfcc1e-0dcf-4ce8-80dc-69c768c206b9)
-
 ## Deploy model
 ![image](https://github.com/user-attachments/assets/e555ac00-4708-4e51-8d10-9eeb6f042b57)
 
